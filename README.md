@@ -1,4 +1,4 @@
-# Octanet-Web-Task-Task-1-To-Do-List
+# Octanet-Web-Task-2-To-Do-List
 
 # To-Do List With Local Storage
 
