@@ -85,6 +85,9 @@ If you have any questions or feedback, please feel free to contact the project m
 - Manoj Gupta
 - Manoj.gupta16539@sakec.ac.in
 
+**Portfolio:** Manoj R Gupta
+https://manoj-gupta-profile.vercel.app/
+
 ## About
 
 This to-do list application was created as a simple project to demonstrate the use of local storage for data persistence in web applications. It can be used as a starting point for more complex to-do list applications or as a learning resource for web development beginners.
